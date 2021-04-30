@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\Figure area.exe
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\Figure area.deps.json
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\Figure area.runtimeconfig.json
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\Figure area.runtimeconfig.dev.json
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\Figure area.dll
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\ref\Figure area.dll
+C:\Users\user\Desktop\Figure area\bin\Debug\net5.0\Figure area.pdb
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.AssemblyInfo.cs
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.dll
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\ref\Figure area.dll
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.pdb
+C:\Users\user\Desktop\Figure area\obj\Debug\net5.0\Figure area.genruntimeconfig.cache
